@@ -41,4 +41,4 @@ Yes, accuracy was 78.57%, above the goal of 75%.
 ## Summary
 A deep learning model was created that was able to reach predictive accuracy of 78.57%, above the goal of 75%.
 
-![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
+![stacked_launch_outcomes](https://github.com/charlieburd/neural_network_charity_analysis/blob/main/resources/image%20(37).pngg)
