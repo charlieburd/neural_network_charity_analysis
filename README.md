@@ -20,6 +20,7 @@ SPECIAL_CONSIDERATIONS—Special consideration for application
 ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
+
 #### What variable(s) are neither targets nor features, and should be removed from the input data? 
 "EIN", this variable was dropped and not needed. 
 
